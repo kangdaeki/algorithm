@@ -14,6 +14,14 @@ stack.cpp -- stack
 
 subsetsum.cpp -- subset sum using DFS (page 45, Program Contest Challenging)
 
+# Fibonacci
+
+fibo1.cpp	--- Fibonacci by matrix power calculation
+
+fibo2.c	--- Fibonacci by matrix power calculation
+
+mypow.c	--- log(n) time power calculation
+
 # DP
 
 wildcard1.cpp	--- wildcard (page 218, JMBook)
