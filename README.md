@@ -1,3 +1,7 @@
+# Combination
+
+n_choose_r.cpp - n choose r
+
 # BFS/DFS
 
 bfs.cpp	--- BFS
@@ -23,6 +27,18 @@ fibo2.c	--- Fibonacci by matrix power calculation
 mypow.c	--- log(n) time power calculation
 
 # DP
+
+editdistance.cpp -- edit distance
+
+interwoven.cpp -- interwoven string
+
+pebble_dp.cpp -- pebble using DP
+
+pebble_memo.cpp -- pebble using memoization
+
+pebble_r.cpp -- pebble using recursion
+
+single_leg.cpp -- single leg (page 215, JMBook)
 
 wildcard1.cpp	--- wildcard (page 218, JMBook)
 
