@@ -32,7 +32,7 @@ editdistance.cpp -- edit distance
 
 interwoven.cpp -- interwoven string
 
-pebble_dp.cpp -- pebble using DP
+pebble_dp.cpp -- pebble using DP (page 249, 쉽게 배우는 알고리즘)
 
 pebble_memo.cpp -- pebble using memoization
 
