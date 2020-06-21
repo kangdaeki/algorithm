@@ -1,6 +1,6 @@
 # combination - Combinatorics Programming
 
-# BFS/DFS - Breadth First Search / Depth First Search
+# BFS_DFS - Breadth First Search / Depth First Search
 
 # Fibonacci - Fibonacci numbers
 
